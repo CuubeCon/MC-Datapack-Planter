@@ -1,8 +1,0 @@
-execute as @s unless data block ~ ~ ~ Items[{Slot:0b}] if data block ~ ~ ~ Items[{id:"minecraft:potato", Slot:1b}] run data modify block ~ ~ ~ Items[{id:"minecraft:potato", Slot:1b}].Slot set value 0b
-execute as @s unless data block ~ ~ ~ Items[{Slot:0b}] if data block ~ ~ ~ Items[{id:"minecraft:potato", Slot:2b}] run data modify block ~ ~ ~ Items[{id:"minecraft:potato", Slot:2b}].Slot set value 0b
-execute as @s unless data block ~ ~ ~ Items[{Slot:0b}] if data block ~ ~ ~ Items[{id:"minecraft:potato", Slot:3b}] run data modify block ~ ~ ~ Items[{id:"minecraft:potato", Slot:3b}].Slot set value 0b
-execute as @s unless data block ~ ~ ~ Items[{Slot:0b}] if data block ~ ~ ~ Items[{id:"minecraft:potato", Slot:4b}] run data modify block ~ ~ ~ Items[{id:"minecraft:potato", Slot:4b}].Slot set value 0b
-execute as @s unless data block ~ ~ ~ Items[{Slot:0b}] if data block ~ ~ ~ Items[{id:"minecraft:potato", Slot:5b}] run data modify block ~ ~ ~ Items[{id:"minecraft:potato", Slot:5b}].Slot set value 0b
-execute as @s unless data block ~ ~ ~ Items[{Slot:0b}] if data block ~ ~ ~ Items[{id:"minecraft:potato", Slot:6b}] run data modify block ~ ~ ~ Items[{id:"minecraft:potato", Slot:6b}].Slot set value 0b
-execute as @s unless data block ~ ~ ~ Items[{Slot:0b}] if data block ~ ~ ~ Items[{id:"minecraft:potato", Slot:7b}] run data modify block ~ ~ ~ Items[{id:"minecraft:potato", Slot:7b}].Slot set value 0b
-execute as @s unless data block ~ ~ ~ Items[{Slot:0b}] if data block ~ ~ ~ Items[{id:"minecraft:potato", Slot:8b}] run data modify block ~ ~ ~ Items[{id:"minecraft:potato", Slot:8b}].Slot set value 0b
